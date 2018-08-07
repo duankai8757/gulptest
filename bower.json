@@ -1,0 +1,21 @@
+{
+  "name": "gulptest",
+  "authors": [
+    "duankai8757 <duankai8757@163.com>"
+  ],
+  "description": "a simple test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
